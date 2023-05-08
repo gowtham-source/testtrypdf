@@ -11,4 +11,4 @@ tabula-py==2.7.0
 svgpathtools==1.6.0
 torch
 librosa
-fitz
+PyMuPDF
